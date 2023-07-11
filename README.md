@@ -1,1 +1,1 @@
-# Matrix_Multiplication_using_Hadoop_Mapreduce
+# Matrix Multiplication using Hadoop Mapreduce
